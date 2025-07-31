@@ -41,7 +41,7 @@ Com experiência em desenvolvimento mobile multiplataforma e nativo, crio soluç
   <a href="https://www.linkedin.com/in/matheus-braga-cc" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/math.bragaa" target="_blank">
+  <a href="https://instagram.com/matheuskbraga" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
