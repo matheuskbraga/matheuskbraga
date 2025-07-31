@@ -1,4 +1,4 @@
-# 👋 Bem-vindo(a) ao meu perfil, sou o Matheus Braga — Desenvolvedor Mobile 📱
+# 👋 Bem-vindo(a) ao meu perfil, sou o Matheus Braga, Desenvolvedor Mobile 📱
 
 Sou apaixonado por transformar ideias em aplicativos funcionais e bonitos.  
 Com experiência em desenvolvimento mobile multiplataforma e nativo, crio soluções que combinam performance com uma excelente experiência do usuário.
