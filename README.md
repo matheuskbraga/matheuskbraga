@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Matheus Braga!
+#👋 Olá, eu sou o Matheus Braga!
 Cientista de Dados | Apaixonado por transformar dados em insights 📊
 
 Bem-vindo(a) ao meu perfil! Sou um profissional de tecnologia com foco em Ciência de Dados, dedicado a resolver problemas complexos através da análise de dados e da construção de modelos de Machine Learning.
@@ -24,15 +24,15 @@ O meu objetivo é utilizar a programação e a estatística para extrair valor d
 </div>
 🚀 Atualmente, estou a focar-me em:
 
-    Análise Exploratória de Dados (EDA) para descobrir padrões e insights ocultos.
+    🔍 Análise Exploratória de Dados (EDA) para descobrir padrões e insights ocultos.
 
-    Construção e avaliação de modelos de Machine Learning (Classificação e Regressão).
+    ⚙️ Construção e avaliação de modelos de Machine Learning (Classificação e Regressão).
 
-    Limpeza, pré-processamento e enriquecimento de dados (ETL).
+    🧹 Limpeza, pré-processamento e enriquecimento de dados (ETL).
 
-    Visualização de dados para comunicar descobertas de forma clara e impactante.
+    📈 Visualização de dados para comunicar descobertas de forma clara e impactante.
 
-    Técnicas de Aprendizagem Não Supervisionada (Clusterização).
+    🧩 Técnicas de Aprendizagem Não Supervisionada (Clusterização).
 
 📣 Conecte-se comigo
 
