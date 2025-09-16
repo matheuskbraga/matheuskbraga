@@ -8,6 +8,7 @@ Meu objetivo é utilizar programação e estatística para extrair valor dos dad
 
 <div> <a href="https://github.com/matheuskbraga"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuskbraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskbraga&layout=compact&langs_count=6&theme=tokyonight" /> </a> </div>
 🛠️ Ferramentas e Tecnologias
+<br>
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="50" />
