@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu perfil! Sou um profissional de tecnologia com foco em Ciênc
 Meu objetivo é utilizar programação e estatística para extrair valor dos dados, gerando insights que orientem decisões de negócio inteligentes e estratégicas.
 
 <div> <a href="https://github.com/matheuskbraga"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuskbraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskbraga&layout=compact&langs_count=6&theme=tokyonight" /> </a> </div>
-🛠️ Ferramentas e Tecnologias:
+🛠️ Ferramentas e Tecnologias que utilizo:
 <br>
 <br>
 <div style="display: flex; gap: 10px; align-items: center;">
