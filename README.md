@@ -15,6 +15,7 @@ O meu objetivo é utilizar a programação e a estatística para extrair valor d
 <br>
 <br>
 <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
         
         - Pandas
         - NumPy
