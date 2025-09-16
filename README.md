@@ -15,7 +15,6 @@ Meu objetivo é utilizar programação e estatística para extrair valor dos dad
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="50" />
 </div>
 <br>
-<br>
 
     Pandas
 
