@@ -22,13 +22,6 @@ O meu objetivo é utilizar a programação e a estatística para extrair valor d
         - Matplotlib
         - Seaborn
         - SQL
-
-<img align="center" alt="Pandas" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
-<img align="center" alt="NumPy" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
-<img align="center" alt="Scikit-learn" height="30" width="40" src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
-<img align="center" alt="Matplotlib" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" />
-<img align="center" alt="Seaborn" height="30" width="40" src="https://www.google.com/search?q=https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-<img align="center" alt="SQL" height="30" width="40" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
 </div>
 🚀 Atualmente, estou a focar-me em:
 
