@@ -47,7 +47,7 @@ Atualmente estou focado em:
 Conecte-se comigo
 
 <div>
-  <a href="https://www.linkedin.com/in/matheus-braga-cc" target="_blank">
+  <a href="https://www.linkedin.com/in/mbragaa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/matheuskbraga" target="_blank">
@@ -55,12 +55,6 @@ Conecte-se comigo
   </a>
   <a href="https://github.com/matheuskbraga" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@matheuskbraga" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/matheuskbraga" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://facebook.com/matheuskbraga" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-%233b5998?style=for-the-badge&logo=facebook&logoColor=white" />
