@@ -56,7 +56,7 @@ Conecte-se comigo
   <a href="https://github.com/matheuskbraga" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://facebook.com/matheuskbraga" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100007176046318" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-%233b5998?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
