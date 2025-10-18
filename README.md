@@ -44,7 +44,7 @@ Atualmente estou focado em:
 
     Técnicas de Aprendizagem Não Supervisionada (Clusterização)
 
-Conecte-se comigo
+Conecte-se comigo:
 
 <div>
   <a href="https://www.linkedin.com/in/mbragaa/" target="_blank">
