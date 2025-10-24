@@ -21,7 +21,7 @@ Ferramentas e Tecnologias que utilizo:
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" width="50" />
   <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="40" width="50" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="40" width="50" style="filter: brightness(1.5);" />
   <!-- Arduino -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="40" width="50" />
   <!-- Raspberry Pi -->
