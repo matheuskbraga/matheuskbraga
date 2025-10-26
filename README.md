@@ -30,29 +30,6 @@ Ferramentas e Tecnologias que utilizo:
 
 <br>
 
-    Pandas
-
-    NumPy
-
-    Scikit-learn
-
-    Matplotlib
-
-    Seaborn
-
-    SQL
-
-Atualmente estou focado em:
-
-    Análise Exploratória de Dados (EDA) para descobrir padrões e insights ocultos
-
-    Construção e avaliação de modelos de Machine Learning (Classificação e Regressão)
-
-    Limpeza, pré-processamento e enriquecimento de dados (ETL)
-
-    Visualização de dados para comunicar descobertas de forma clara e impactante
-
-    Técnicas de Aprendizagem Não Supervisionada (Clusterização)
 
 Conecte-se comigo:
 
