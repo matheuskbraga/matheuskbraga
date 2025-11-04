@@ -26,7 +26,10 @@ Ferramentas e Tecnologias que utilizo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="40" width="50" />
   <!-- Raspberry Pi -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="40" width="50" />
+  <!-- Canva -->
+  <img src="https://vetores.org/wp-content/uploads/2023/03/canva-logo-1.svg" alt="Canva" height="40" width="50" />
 </div>
+
 
 <br>
 
