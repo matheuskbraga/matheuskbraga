@@ -8,6 +8,8 @@ Sou um profissional de tecnologia com foco em Ciência de Dados e Inteligência 
 
 Atualmente, também exploro a intersecção entre tecnologia e educação por meio da robótica, buscando sempre extrair o máximo de valor dos dados e construir soluções que gerem impacto real e orientem decisões estratégicas.
 
+<br>
+
 ### 💻 Tecnologias e Ferramentas
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
