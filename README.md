@@ -23,17 +23,6 @@ Atualmente, também exploro a intersecção entre tecnologia e educação por me
 
 <br>
 
-### 📊 Estatísticas do GitHub
-
-<div>
-  <a href="https://github.com/matheuskbraga">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuskbraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Matheus" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskbraga&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
-  </a>
-</div>
-
-<br>
-
 ### 🌐 Conecte-se comigo
 
 <div style="display: flex; gap: 10px; justify-content: center;">
