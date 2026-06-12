@@ -1,43 +1,30 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# 👋 Olá, eu sou o Matheus Braga!
+<p align="left"> 
+  Olá! Me chamo <strong>Matheus Braga</strong>. 👋<br>
+  Sou <strong>Cientista de Dados</strong>, formado em Ciência da Computação e atualmente Mestrando. Apaixonado por tecnologia, educação e o universo da inteligência artificial aplicada. 🚀<br><br>
+  💼 No momento, atuo como <strong>instrutor de robótica</strong> e dedico meus estudos à pesquisa acadêmica no mestrado.
+</p>
 
-**Cientista de Dados | Mestrando | Instrutor de Robótica**
+<p align="left">
+  🦄 Linguagens e Tecnologias: **Python, C/C++ (Arduino)**
+</p>
 
-Sou um profissional de tecnologia com foco em Ciência de Dados e Inteligência Artificial, dedicado a resolver problemas complexos por meio de Machine Learning, Visão Computacional e Agentes Autônomos. 
+<p align="left">
+  💼 Ferramentas: **Arduino IDE, Bibliotecas de Data Science (Pandas, NumPy, Scikit-Learn), Git/GitHub**
+</p>
 
-Atualmente, também exploro a intersecção entre tecnologia e educação por meio da robótica, buscando sempre extrair o máximo de valor dos dados e construir soluções que gerem impacto real e orientem decisões estratégicas.
+<p align="left">
+  💌 Entre em contato comigo: ⤵️
+</p>
 
-<br>
-
-### 💻 Tecnologias e Ferramentas
-
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</div>
-
-<br>
-
-### 🌐 Conecte-se comigo
-
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <a href="https://www.linkedin.com/in/mbragaa/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/matheuskbraga" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/matheuskbraga" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100007176046318" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-%233b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
-
-</div>
+<p align="left">
+  <a href="mailto:SEU_EMAIL@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="SEU_LINK_DO_LINKEDIN" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/SEU_NUMERO_DE_TELEFONE" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="SEU_LINK_DO_INSTAGRAM" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
