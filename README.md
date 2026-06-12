@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <strong>Matheus Braga</strong><br>
-  Cientista de Dados e Bacharel em Ciência da Computação. Atualmente, Mestrando e Pesquisador, com foco no desenvolvimento de soluções tecnológicas e análise de dados complexos.<br><br>
+  Cientista de Dados e Bacharel em Ciência da Computação. Atualmente, Mestrando em Ensino de Ciências e Matemática, unindo tecnologia, análise de dados e pesquisa acadêmica voltada à educação.<br><br>
   Atuo profissionalmente como instrutor de robótica, conciliando a docência prática com a investigação acadêmica e o desenvolvimento de sistemas inteligentes.
 </p>
 
