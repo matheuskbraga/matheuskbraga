@@ -3,7 +3,7 @@
 <p align="left"> 
   <strong>Matheus Braga</strong><br>
   Bacharel em Ciência da Computação e especialização em Ciência de Dados.<br><br>
-  Atuo profissionalmente como instrutor de robótica, conciliando a docência prática com a investigação acadêmica e o desenvolvimento de sistemas inteligentes.
+  Atualmente atuo como instrutor de robótica, conciliando a docência prática e o desenvolvimento de sistemas inteligentes.
 </p>
 
 <p align="left">
