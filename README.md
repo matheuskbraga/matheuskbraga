@@ -17,6 +17,7 @@
 
 <p align="left">
   <strong>Ferramentas e Frameworks:</strong><br>
+  <img src="https://img.shields.io/badge/CustomTkinter-1E90FF?style=flat-square&logo=python&logoColor=white" alt="CustomTkinter"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" alt="MediaPipe"/>
