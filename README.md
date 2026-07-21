@@ -17,8 +17,10 @@
 
 <p align="left">
   <strong>Ferramentas e Frameworks:</strong><br>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=microsoft&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/CustomTkinter-1E90FF?style=flat-square&logo=python&logoColor=white" alt="CustomTkinter"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" alt="MediaPipe"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
@@ -27,8 +29,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyAutoGUI"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=microsoft&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
+  
 </p>
 
 
